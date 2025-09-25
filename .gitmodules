@@ -1,0 +1,3 @@
+[submodule "themes/wavbits.com"]
+	path = themes/wavbits.com
+	url = https://github.com/gitchx/wavbits.com
